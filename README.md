@@ -22,19 +22,20 @@ MSc Artificial Intelligence and Data Science, University of Hull. I run [Damon D
 
 | Project | What it is | Status |
 |---|---|---|
+| **[Plainly Benefits](https://github.com/damonchandio/plainly-benefits)** | Plain-English answers to PIP and Universal Credit questions, grounded in official GOV.UK guidance, with a link to the source for every point. 23 guidance pages, 98 chunks in pgvector, and a relevance gate that refuses off-topic questions before any LLM call. [Live app](https://plainly-benefits.netlify.app). | Live |
 | **[WaitWell](https://github.com/damonchandio/waitwell)** | Companion app for people on an NHS waiting list. Symptom tracking, an AI coach that summarises your own logs for an appointment, and a hospital-letter explainer. [Live app](https://waitwell.netlify.app). | Live |
-| Benefits assistant | Answers PIP and Universal Credit questions from official gov.uk guidance, with the source shown under every answer. 53 sections indexed, 211 chunks, pgvector. | In development |
 | Project TARS | A voice-first companion robot on a Raspberry Pi 5, built and filmed in public. Phase 1 is getting him to speak. | In build |
 
 ---
 
 ### Tools I reach for
 
-Python · FastAPI · PostgreSQL · Supabase and pgvector · sentence embeddings · React · Progressive Web Apps · Netlify · Git
+Python · FastAPI · PostgreSQL · Supabase and pgvector · fastembed · sentence embeddings · Gemini · React · Progressive Web Apps · Netlify · Git
 
 ---
 
 ### Elsewhere
 
 - [damondynamics.co.uk](https://damondynamics.co.uk)
+- [LinkedIn](https://www.linkedin.com/in/damonchandio/)
 - ceo@damondynamics.co.uk
