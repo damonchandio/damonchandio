@@ -1,3 +1,5 @@
+<img src="assets/banner.png" alt="Damon Chandio, AI Engineer" width="100%">
+
 ## Hi, I'm Damon 👋
 
 **AI Engineer in West Yorkshire, UK.** I build AI that does real work, and I ship it: RAG systems, LLM agents, voice AI and the automation around them.
@@ -23,7 +25,7 @@ Small tools that came out of running my own AI agents every day. Each one fixes 
 | --- | --- |
 | [**Plainly Benefits**](https://github.com/damonchandio/plainly-benefits) · [live](https://plainly-benefits.netlify.app) | RAG assistant that answers PIP and Universal Credit questions from official GOV.UK guidance, with citations. FastAPI, Supabase pgvector, Gemini. |
 | [**The Curry Index**](https://curryindex.co.uk) | An AI phone agent that called 290 Bradford takeaways (827 calls) and published 111 verified prices on a public map. |
-| [**WaitWell**](https://github.com/damonchandio/Waitwell) | Open source PWA for people on NHS waiting lists: symptom tracking, an AI appointment summary and a hospital letter explainer. |
+| [**WaitWell**](https://github.com/damonchandio/WaitWell) | Open source PWA for people on NHS waiting lists: symptom tracking, an AI appointment summary and a hospital letter explainer. |
 
 ### 🤖 Private: Connor
 
